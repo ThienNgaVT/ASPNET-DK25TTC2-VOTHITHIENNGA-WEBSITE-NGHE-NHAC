@@ -5,7 +5,6 @@
 - **Thời gian thực hiện**: 22/06/2026 - 28/06/2026
 - **Giai đoạn**: Giai đoạn chuẩn bị và nghiên cứu lý thuyết cơ sở
 - **Tên đề tài**: Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
-- **Giảng viên hướng dẫn**: ThS. Đoàn Phước Miền 
 
 ---
 
