@@ -2,13 +2,14 @@
 
 * **ĐẠI HỌC TRÀ VINH**
 * **Trường:** Kỹ thuật và Công nghệ
-* **Bộ môn:** Công nghệ Thông tin  
+* **Bộ môn:** Công nghệ Thông tin
+* **Sinh viên thực hiện:** Võ Thị Thiên Nga 
+* **Mã số sinh viên:** 170125155 
 - **Thời gian thực hiện**: 22/06/2026 - 28/06/2026
 - **Giai đoạn**: Giai đoạn chuẩn bị và nghiên cứu lý thuyết cơ sở
 - **Tên đề tài**: Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
 
 ---
-
 ## 1. Nội dung công việc
 * Xác định lý do chọn đề tài xuất phát từ nhu cầu giải trí, giảm thiểu áp lực cuộc sống bằng âm nhạc ngày càng tăng cao trong xã hội hiện đại.
 * Nghiên cứu và xác định rõ mục tiêu, đối tượng sử dụng của hệ thống bao gồm hai nhóm chính là người quản lý và người nghe nhạc.
