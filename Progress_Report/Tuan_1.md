@@ -1,7 +1,8 @@
 # BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 1
 
-- **Khoa**: Kỹ thuật và Công nghệ 
-- **Bộ môn**: Công nghệ Thông tin 
+* **ĐẠI HỌC TRÀ VINH**
+* **Trường:** Kỹ thuật và Công nghệ
+* **Bộ môn:** Công nghệ Thông tin  
 - **Thời gian thực hiện**: 22/06/2026 - 28/06/2026
 - **Giai đoạn**: Giai đoạn chuẩn bị và nghiên cứu lý thuyết cơ sở
 - **Tên đề tài**: Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
