@@ -1,10 +1,11 @@
 # Tuan_2.md
 # 📑 BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 2
-**Khoa:** Kỹ thuật và Công nghệ
-**Bộ môn:** Công nghệ Thông tin 
-**Đề tài:** Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
-**Sinh viên thực hiện:** Võ Thị Thiên Nga 
-**Mã số sinh viên:** 170125155 
+* **ĐẠI HỌC TRÀ VINH**
+* **Trường:** Kỹ thuật và Công nghệ
+* **Bộ môn:** Công nghệ Thông tin 
+* **Đề tài:** Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
+* **Sinh viên thực hiện:** Võ Thị Thiên Nga 
+* **Mã số sinh viên:** 170125155 
 * **Thời gian báo cáo:** 29/06/2026 - 05/07/2026
 ---
 
