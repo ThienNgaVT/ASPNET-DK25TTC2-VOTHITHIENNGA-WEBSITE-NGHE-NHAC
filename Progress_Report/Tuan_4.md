@@ -4,7 +4,7 @@
 * **Trường:** Kỹ thuật và Công nghệ 
 * **Bộ môn:** Công nghệ Thông tin 
 * **Đề tài:** Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
-***Sinh viên thực hiện:** Võ Thị Thiên Nga 
+* **Sinh viên thực hiện:** Võ Thị Thiên Nga 
 * **Mã số sinh viên:** 170125155
 * **Thời gian báo cáo:** 13/07/2026 - 19/07/2026
 ---
