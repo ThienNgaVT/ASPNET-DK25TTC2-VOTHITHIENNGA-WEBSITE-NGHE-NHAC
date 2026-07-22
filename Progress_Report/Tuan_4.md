@@ -1,12 +1,12 @@
 # Tuan_4.md
 # 📑 BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 4
-* **Khoa:** Kỹ thuật và Công nghệ 
+* **ĐẠI HỌC TRÀ VINH**
+* **Trường:** Kỹ thuật và Công nghệ 
 * **Bộ môn:** Công nghệ Thông tin 
 * **Đề tài:** Xây dựng website Nghe nhạc trực tuyến trên nền tảng ASP.NET 
 ***Sinh viên thực hiện:** Võ Thị Thiên Nga 
 * **Mã số sinh viên:** 170125155
 * **Thời gian báo cáo:** 13/07/2026 - 19/07/2026
-
 ---
 
 ## 1. Nội dung công việc
